@@ -116,7 +116,7 @@ const ImgGif = () => {
             marginTop: '10px',  // Add margin for spacing
           }}
         >
-          Don't Click Me!
+          Don't Click Me!!
         </button>
 
         {/* Routes */}
